@@ -221,7 +221,7 @@ function renderResults(data, animate) {
     data: mayorData,
     width: 780,
     height: 440,
-    centerX: 515,
+    centerX: 400,
     centerY: 220,
     outerRadius: 180,
     innerRadius: 76,
