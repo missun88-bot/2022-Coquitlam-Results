@@ -771,11 +771,11 @@ a:focus-visible {
 
 .election-day-note {
   margin-top: 24px;
-  padding: 13px 15px;
+  padding: 17px 18px;
   border-left: 3px solid var(--gold);
   color: var(--muted);
   background: rgba(255, 255, 255, 0.72);
-  font-size: 0.82rem;
+  font-size: 0.95rem;
 }
 
 .election-day-note strong,
@@ -785,6 +785,7 @@ a:focus-visible {
 
 .election-day-note strong {
   color: var(--navy);
+  font-size: 1.08rem;
 }
 
 .map-shell {
