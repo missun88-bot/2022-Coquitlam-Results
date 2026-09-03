@@ -1,0 +1,897 @@
+office,candidate,elected,voting_place,category,votes
+Mayor,GAMAR,No,Total,Overall total,5367
+Mayor,GAMAR,No,Centennial Adv.,Advance,654
+Mayor,GAMAR,No,Innovation Adv.,Advance,590
+Mayor,GAMAR,No,Victoria Adv.,Advance,57
+Mayor,GAMAR,No,Mobile,Mobile,5
+Mayor,GAMAR,No,Alderson,Voting place,205
+Mayor,GAMAR,No,Bramblewood,Voting place,214
+Mayor,GAMAR,No,Cape Horn,Voting place,130
+Mayor,GAMAR,No,Como Lake,Voting place,219
+Mayor,GAMAR,No,Eagle Ridge,Voting place,172
+Mayor,GAMAR,No,Glen,Voting place,261
+Mayor,GAMAR,No,Harbourview,Voting place,120
+Mayor,GAMAR,No,Hillcrest,Voting place,359
+Mayor,GAMAR,No,Innovation,Voting place,296
+Mayor,GAMAR,No,Lord Baden,Voting place,196
+Mayor,GAMAR,No,Meadowbrook,Voting place,79
+Mayor,GAMAR,No,Miller Park,Voting place,143
+Mayor,GAMAR,No,Montgomery,Voting place,60
+Mayor,GAMAR,No,Mountain View,Voting place,236
+Mayor,GAMAR,No,Mundy Road,Voting place,267
+Mayor,GAMAR,No,Nestor,Voting place,150
+Mayor,GAMAR,No,Panorama,Voting place,129
+Mayor,GAMAR,No,Porter Street,Voting place,130
+Mayor,GAMAR,No,Ranch Park,Voting place,160
+Mayor,GAMAR,No,Riverview,Voting place,113
+Mayor,GAMAR,No,Smiling Creek,Voting place,173
+Mayor,GAMAR,No,Victoria Hall,Voting place,131
+Mayor,GAMAR,No,Walton,Voting place,118
+Mayor,MAHOVLICH,No,Total,Overall total,818
+Mayor,MAHOVLICH,No,Centennial Adv.,Advance,69
+Mayor,MAHOVLICH,No,Innovation Adv.,Advance,60
+Mayor,MAHOVLICH,No,Victoria Adv.,Advance,4
+Mayor,MAHOVLICH,No,Mobile,Mobile,15
+Mayor,MAHOVLICH,No,Alderson,Voting place,31
+Mayor,MAHOVLICH,No,Bramblewood,Voting place,28
+Mayor,MAHOVLICH,No,Cape Horn,Voting place,25
+Mayor,MAHOVLICH,No,Como Lake,Voting place,42
+Mayor,MAHOVLICH,No,Eagle Ridge,Voting place,29
+Mayor,MAHOVLICH,No,Glen,Voting place,38
+Mayor,MAHOVLICH,No,Harbourview,Voting place,29
+Mayor,MAHOVLICH,No,Hillcrest,Voting place,55
+Mayor,MAHOVLICH,No,Innovation,Voting place,45
+Mayor,MAHOVLICH,No,Lord Baden,Voting place,36
+Mayor,MAHOVLICH,No,Meadowbrook,Voting place,18
+Mayor,MAHOVLICH,No,Miller Park,Voting place,19
+Mayor,MAHOVLICH,No,Montgomery,Voting place,8
+Mayor,MAHOVLICH,No,Mountain View,Voting place,37
+Mayor,MAHOVLICH,No,Mundy Road,Voting place,58
+Mayor,MAHOVLICH,No,Nestor,Voting place,25
+Mayor,MAHOVLICH,No,Panorama,Voting place,23
+Mayor,MAHOVLICH,No,Porter Street,Voting place,30
+Mayor,MAHOVLICH,No,Ranch Park,Voting place,27
+Mayor,MAHOVLICH,No,Riverview,Voting place,14
+Mayor,MAHOVLICH,No,Smiling Creek,Voting place,14
+Mayor,MAHOVLICH,No,Victoria Hall,Voting place,23
+Mayor,MAHOVLICH,No,Walton,Voting place,16
+Mayor,STEWART,Yes,Total,Overall total,14105
+Mayor,STEWART,Yes,Centennial Adv.,Advance,1719
+Mayor,STEWART,Yes,Innovation Adv.,Advance,1697
+Mayor,STEWART,Yes,Victoria Adv.,Advance,130
+Mayor,STEWART,Yes,Mobile,Mobile,73
+Mayor,STEWART,Yes,Alderson,Voting place,422
+Mayor,STEWART,Yes,Bramblewood,Voting place,667
+Mayor,STEWART,Yes,Cape Horn,Voting place,418
+Mayor,STEWART,Yes,Como Lake,Voting place,421
+Mayor,STEWART,Yes,Eagle Ridge,Voting place,471
+Mayor,STEWART,Yes,Glen,Voting place,668
+Mayor,STEWART,Yes,Harbourview,Voting place,234
+Mayor,STEWART,Yes,Hillcrest,Voting place,901
+Mayor,STEWART,Yes,Innovation,Voting place,727
+Mayor,STEWART,Yes,Lord Baden,Voting place,306
+Mayor,STEWART,Yes,Meadowbrook,Voting place,207
+Mayor,STEWART,Yes,Miller Park,Voting place,284
+Mayor,STEWART,Yes,Montgomery,Voting place,166
+Mayor,STEWART,Yes,Mountain View,Voting place,488
+Mayor,STEWART,Yes,Mundy Road,Voting place,749
+Mayor,STEWART,Yes,Nestor,Voting place,456
+Mayor,STEWART,Yes,Panorama,Voting place,496
+Mayor,STEWART,Yes,Porter Street,Voting place,348
+Mayor,STEWART,Yes,Ranch Park,Voting place,382
+Mayor,STEWART,Yes,Riverview,Voting place,376
+Mayor,STEWART,Yes,Smiling Creek,Voting place,540
+Mayor,STEWART,Yes,Victoria Hall,Voting place,318
+Mayor,STEWART,Yes,Walton,Voting place,441
+Councillor,ASMUNDSON,Yes,Total,Overall total,8962
+Councillor,ASMUNDSON,Yes,Centennial Adv.,Advance,1198
+Councillor,ASMUNDSON,Yes,Innovation Adv.,Advance,1074
+Councillor,ASMUNDSON,Yes,Victoria Adv.,Advance,115
+Councillor,ASMUNDSON,Yes,Mobile,Mobile,25
+Councillor,ASMUNDSON,Yes,Alderson,Voting place,266
+Councillor,ASMUNDSON,Yes,Bramblewood,Voting place,430
+Councillor,ASMUNDSON,Yes,Cape Horn,Voting place,260
+Councillor,ASMUNDSON,Yes,Como Lake,Voting place,276
+Councillor,ASMUNDSON,Yes,Eagle Ridge,Voting place,300
+Councillor,ASMUNDSON,Yes,Glen,Voting place,413
+Councillor,ASMUNDSON,Yes,Harbourview,Voting place,179
+Councillor,ASMUNDSON,Yes,Hillcrest,Voting place,569
+Councillor,ASMUNDSON,Yes,Innovation,Voting place,417
+Councillor,ASMUNDSON,Yes,Lord Baden,Voting place,212
+Councillor,ASMUNDSON,Yes,Meadowbrook,Voting place,158
+Councillor,ASMUNDSON,Yes,Miller Park,Voting place,184
+Councillor,ASMUNDSON,Yes,Montgomery,Voting place,84
+Councillor,ASMUNDSON,Yes,Mountain View,Voting place,330
+Councillor,ASMUNDSON,Yes,Mundy Road,Voting place,463
+Councillor,ASMUNDSON,Yes,Nestor,Voting place,292
+Councillor,ASMUNDSON,Yes,Panorama,Voting place,275
+Councillor,ASMUNDSON,Yes,Porter Street,Voting place,208
+Councillor,ASMUNDSON,Yes,Ranch Park,Voting place,238
+Councillor,ASMUNDSON,Yes,Riverview,Voting place,262
+Councillor,ASMUNDSON,Yes,Smiling Creek,Voting place,273
+Councillor,ASMUNDSON,Yes,Victoria Hall,Voting place,216
+Councillor,ASMUNDSON,Yes,Walton,Voting place,245
+Councillor,BOTTOS,No,Total,Overall total,3703
+Councillor,BOTTOS,No,Centennial Adv.,Advance,462
+Councillor,BOTTOS,No,Innovation Adv.,Advance,415
+Councillor,BOTTOS,No,Victoria Adv.,Advance,32
+Councillor,BOTTOS,No,Mobile,Mobile,8
+Councillor,BOTTOS,No,Alderson,Voting place,155
+Councillor,BOTTOS,No,Bramblewood,Voting place,148
+Councillor,BOTTOS,No,Cape Horn,Voting place,109
+Councillor,BOTTOS,No,Como Lake,Voting place,142
+Councillor,BOTTOS,No,Eagle Ridge,Voting place,133
+Councillor,BOTTOS,No,Glen,Voting place,208
+Councillor,BOTTOS,No,Harbourview,Voting place,76
+Councillor,BOTTOS,No,Hillcrest,Voting place,214
+Councillor,BOTTOS,No,Innovation,Voting place,197
+Councillor,BOTTOS,No,Lord Baden,Voting place,113
+Councillor,BOTTOS,No,Meadowbrook,Voting place,67
+Councillor,BOTTOS,No,Miller Park,Voting place,85
+Councillor,BOTTOS,No,Montgomery,Voting place,36
+Councillor,BOTTOS,No,Mountain View,Voting place,120
+Councillor,BOTTOS,No,Mundy Road,Voting place,168
+Councillor,BOTTOS,No,Nestor,Voting place,142
+Councillor,BOTTOS,No,Panorama,Voting place,97
+Councillor,BOTTOS,No,Porter Street,Voting place,116
+Councillor,BOTTOS,No,Ranch Park,Voting place,109
+Councillor,BOTTOS,No,Riverview,Voting place,78
+Councillor,BOTTOS,No,Smiling Creek,Voting place,95
+Councillor,BOTTOS,No,Victoria Hall,Voting place,74
+Councillor,BOTTOS,No,Walton,Voting place,104
+Councillor,BUCHAN,No,Total,Overall total,2306
+Councillor,BUCHAN,No,Centennial Adv.,Advance,302
+Councillor,BUCHAN,No,Innovation Adv.,Advance,235
+Councillor,BUCHAN,No,Victoria Adv.,Advance,14
+Councillor,BUCHAN,No,Mobile,Mobile,12
+Councillor,BUCHAN,No,Alderson,Voting place,85
+Councillor,BUCHAN,No,Bramblewood,Voting place,89
+Councillor,BUCHAN,No,Cape Horn,Voting place,73
+Councillor,BUCHAN,No,Como Lake,Voting place,118
+Councillor,BUCHAN,No,Eagle Ridge,Voting place,78
+Councillor,BUCHAN,No,Glen,Voting place,127
+Councillor,BUCHAN,No,Harbourview,Voting place,37
+Councillor,BUCHAN,No,Hillcrest,Voting place,121
+Councillor,BUCHAN,No,Innovation,Voting place,145
+Councillor,BUCHAN,No,Lord Baden,Voting place,62
+Councillor,BUCHAN,No,Meadowbrook,Voting place,49
+Councillor,BUCHAN,No,Miller Park,Voting place,58
+Councillor,BUCHAN,No,Montgomery,Voting place,29
+Councillor,BUCHAN,No,Mountain View,Voting place,96
+Councillor,BUCHAN,No,Mundy Road,Voting place,131
+Councillor,BUCHAN,No,Nestor,Voting place,61
+Councillor,BUCHAN,No,Panorama,Voting place,55
+Councillor,BUCHAN,No,Porter Street,Voting place,53
+Councillor,BUCHAN,No,Ranch Park,Voting place,67
+Councillor,BUCHAN,No,Riverview,Voting place,56
+Councillor,BUCHAN,No,Smiling Creek,Voting place,61
+Councillor,BUCHAN,No,Victoria Hall,Voting place,42
+Councillor,BUCHAN,No,Walton,Voting place,50
+Councillor,CRAIG,No,Total,Overall total,5366
+Councillor,CRAIG,No,Centennial Adv.,Advance,667
+Councillor,CRAIG,No,Innovation Adv.,Advance,548
+Councillor,CRAIG,No,Victoria Adv.,Advance,51
+Councillor,CRAIG,No,Mobile,Mobile,24
+Councillor,CRAIG,No,Alderson,Voting place,217
+Councillor,CRAIG,No,Bramblewood,Voting place,218
+Councillor,CRAIG,No,Cape Horn,Voting place,166
+Councillor,CRAIG,No,Como Lake,Voting place,203
+Councillor,CRAIG,No,Eagle Ridge,Voting place,151
+Councillor,CRAIG,No,Glen,Voting place,275
+Councillor,CRAIG,No,Harbourview,Voting place,112
+Councillor,CRAIG,No,Hillcrest,Voting place,354
+Councillor,CRAIG,No,Innovation,Voting place,276
+Councillor,CRAIG,No,Lord Baden,Voting place,170
+Councillor,CRAIG,No,Meadowbrook,Voting place,79
+Councillor,CRAIG,No,Miller Park,Voting place,125
+Councillor,CRAIG,No,Montgomery,Voting place,68
+Councillor,CRAIG,No,Mountain View,Voting place,211
+Councillor,CRAIG,No,Mundy Road,Voting place,323
+Councillor,CRAIG,No,Nestor,Voting place,148
+Councillor,CRAIG,No,Panorama,Voting place,142
+Councillor,CRAIG,No,Porter Street,Voting place,138
+Councillor,CRAIG,No,Ranch Park,Voting place,141
+Councillor,CRAIG,No,Riverview,Voting place,147
+Councillor,CRAIG,No,Smiling Creek,Voting place,171
+Councillor,CRAIG,No,Victoria Hall,Voting place,123
+Councillor,CRAIG,No,Walton,Voting place,118
+Councillor,DARWISH,No,Total,Overall total,1450
+Councillor,DARWISH,No,Centennial Adv.,Advance,166
+Councillor,DARWISH,No,Innovation Adv.,Advance,193
+Councillor,DARWISH,No,Victoria Adv.,Advance,12
+Councillor,DARWISH,No,Mobile,Mobile,0
+Councillor,DARWISH,No,Alderson,Voting place,63
+Councillor,DARWISH,No,Bramblewood,Voting place,51
+Councillor,DARWISH,No,Cape Horn,Voting place,52
+Councillor,DARWISH,No,Como Lake,Voting place,52
+Councillor,DARWISH,No,Eagle Ridge,Voting place,54
+Councillor,DARWISH,No,Glen,Voting place,70
+Councillor,DARWISH,No,Harbourview,Voting place,24
+Councillor,DARWISH,No,Hillcrest,Voting place,64
+Councillor,DARWISH,No,Innovation,Voting place,98
+Councillor,DARWISH,No,Lord Baden,Voting place,36
+Councillor,DARWISH,No,Meadowbrook,Voting place,26
+Councillor,DARWISH,No,Miller Park,Voting place,39
+Councillor,DARWISH,No,Montgomery,Voting place,9
+Councillor,DARWISH,No,Mountain View,Voting place,55
+Councillor,DARWISH,No,Mundy Road,Voting place,70
+Councillor,DARWISH,No,Nestor,Voting place,36
+Councillor,DARWISH,No,Panorama,Voting place,55
+Councillor,DARWISH,No,Porter Street,Voting place,21
+Councillor,DARWISH,No,Ranch Park,Voting place,31
+Councillor,DARWISH,No,Riverview,Voting place,40
+Councillor,DARWISH,No,Smiling Creek,Voting place,49
+Councillor,DARWISH,No,Victoria Hall,Voting place,34
+Councillor,DARWISH,No,Walton,Voting place,50
+Councillor,DJONLIC,Yes,Total,Overall total,8925
+Councillor,DJONLIC,Yes,Centennial Adv.,Advance,1144
+Councillor,DJONLIC,Yes,Innovation Adv.,Advance,889
+Councillor,DJONLIC,Yes,Victoria Adv.,Advance,89
+Councillor,DJONLIC,Yes,Mobile,Mobile,23
+Councillor,DJONLIC,Yes,Alderson,Voting place,274
+Councillor,DJONLIC,Yes,Bramblewood,Voting place,350
+Councillor,DJONLIC,Yes,Cape Horn,Voting place,261
+Councillor,DJONLIC,Yes,Como Lake,Voting place,299
+Councillor,DJONLIC,Yes,Eagle Ridge,Voting place,287
+Councillor,DJONLIC,Yes,Glen,Voting place,352
+Councillor,DJONLIC,Yes,Harbourview,Voting place,171
+Councillor,DJONLIC,Yes,Hillcrest,Voting place,700
+Councillor,DJONLIC,Yes,Innovation,Voting place,406
+Councillor,DJONLIC,Yes,Lord Baden,Voting place,255
+Councillor,DJONLIC,Yes,Meadowbrook,Voting place,112
+Councillor,DJONLIC,Yes,Miller Park,Voting place,196
+Councillor,DJONLIC,Yes,Montgomery,Voting place,123
+Councillor,DJONLIC,Yes,Mountain View,Voting place,325
+Councillor,DJONLIC,Yes,Mundy Road,Voting place,570
+Councillor,DJONLIC,Yes,Nestor,Voting place,322
+Councillor,DJONLIC,Yes,Panorama,Voting place,241
+Councillor,DJONLIC,Yes,Porter Street,Voting place,248
+Councillor,DJONLIC,Yes,Ranch Park,Voting place,347
+Councillor,DJONLIC,Yes,Riverview,Voting place,210
+Councillor,DJONLIC,Yes,Smiling Creek,Voting place,285
+Councillor,DJONLIC,Yes,Victoria Hall,Voting place,189
+Councillor,DJONLIC,Yes,Walton,Voting place,257
+Councillor,HODGE,Yes,Total,Overall total,10799
+Councillor,HODGE,Yes,Centennial Adv.,Advance,1380
+Councillor,HODGE,Yes,Innovation Adv.,Advance,1302
+Councillor,HODGE,Yes,Victoria Adv.,Advance,129
+Councillor,HODGE,Yes,Mobile,Mobile,32
+Councillor,HODGE,Yes,Alderson,Voting place,284
+Councillor,HODGE,Yes,Bramblewood,Voting place,507
+Councillor,HODGE,Yes,Cape Horn,Voting place,310
+Councillor,HODGE,Yes,Como Lake,Voting place,334
+Councillor,HODGE,Yes,Eagle Ridge,Voting place,375
+Councillor,HODGE,Yes,Glen,Voting place,446
+Councillor,HODGE,Yes,Harbourview,Voting place,209
+Councillor,HODGE,Yes,Hillcrest,Voting place,747
+Councillor,HODGE,Yes,Innovation,Voting place,440
+Councillor,HODGE,Yes,Lord Baden,Voting place,284
+Councillor,HODGE,Yes,Meadowbrook,Voting place,159
+Councillor,HODGE,Yes,Miller Park,Voting place,209
+Councillor,HODGE,Yes,Montgomery,Voting place,129
+Councillor,HODGE,Yes,Mountain View,Voting place,355
+Councillor,HODGE,Yes,Mundy Road,Voting place,583
+Councillor,HODGE,Yes,Nestor,Voting place,363
+Councillor,HODGE,Yes,Panorama,Voting place,312
+Councillor,HODGE,Yes,Porter Street,Voting place,276
+Councillor,HODGE,Yes,Ranch Park,Voting place,300
+Councillor,HODGE,Yes,Riverview,Voting place,280
+Councillor,HODGE,Yes,Smiling Creek,Voting place,443
+Councillor,HODGE,Yes,Victoria Hall,Voting place,321
+Councillor,HODGE,Yes,Walton,Voting place,290
+Councillor,KIM,Yes,Total,Overall total,9154
+Councillor,KIM,Yes,Centennial Adv.,Advance,1139
+Councillor,KIM,Yes,Innovation Adv.,Advance,1139
+Councillor,KIM,Yes,Victoria Adv.,Advance,106
+Councillor,KIM,Yes,Mobile,Mobile,17
+Councillor,KIM,Yes,Alderson,Voting place,335
+Councillor,KIM,Yes,Bramblewood,Voting place,391
+Councillor,KIM,Yes,Cape Horn,Voting place,261
+Councillor,KIM,Yes,Como Lake,Voting place,297
+Councillor,KIM,Yes,Eagle Ridge,Voting place,306
+Councillor,KIM,Yes,Glen,Voting place,443
+Councillor,KIM,Yes,Harbourview,Voting place,129
+Councillor,KIM,Yes,Hillcrest,Voting place,567
+Councillor,KIM,Yes,Innovation,Voting place,477
+Councillor,KIM,Yes,Lord Baden,Voting place,268
+Councillor,KIM,Yes,Meadowbrook,Voting place,135
+Councillor,KIM,Yes,Miller Park,Voting place,183
+Councillor,KIM,Yes,Montgomery,Voting place,106
+Councillor,KIM,Yes,Mountain View,Voting place,359
+Councillor,KIM,Yes,Mundy Road,Voting place,483
+Councillor,KIM,Yes,Nestor,Voting place,250
+Councillor,KIM,Yes,Panorama,Voting place,270
+Councillor,KIM,Yes,Porter Street,Voting place,208
+Councillor,KIM,Yes,Ranch Park,Voting place,223
+Councillor,KIM,Yes,Riverview,Voting place,260
+Councillor,KIM,Yes,Smiling Creek,Voting place,341
+Councillor,KIM,Yes,Victoria Hall,Voting place,200
+Councillor,KIM,Yes,Walton,Voting place,261
+Councillor,LAMBERT,No,Total,Overall total,6303
+Councillor,LAMBERT,No,Centennial Adv.,Advance,815
+Councillor,LAMBERT,No,Innovation Adv.,Advance,683
+Councillor,LAMBERT,No,Victoria Adv.,Advance,60
+Councillor,LAMBERT,No,Mobile,Mobile,26
+Councillor,LAMBERT,No,Alderson,Voting place,202
+Councillor,LAMBERT,No,Bramblewood,Voting place,261
+Councillor,LAMBERT,No,Cape Horn,Voting place,175
+Councillor,LAMBERT,No,Como Lake,Voting place,234
+Councillor,LAMBERT,No,Eagle Ridge,Voting place,220
+Councillor,LAMBERT,No,Glen,Voting place,292
+Councillor,LAMBERT,No,Harbourview,Voting place,160
+Councillor,LAMBERT,No,Hillcrest,Voting place,455
+Councillor,LAMBERT,No,Innovation,Voting place,305
+Councillor,LAMBERT,No,Lord Baden,Voting place,180
+Councillor,LAMBERT,No,Meadowbrook,Voting place,80
+Councillor,LAMBERT,No,Miller Park,Voting place,140
+Councillor,LAMBERT,No,Montgomery,Voting place,74
+Councillor,LAMBERT,No,Mountain View,Voting place,237
+Councillor,LAMBERT,No,Mundy Road,Voting place,299
+Councillor,LAMBERT,No,Nestor,Voting place,232
+Councillor,LAMBERT,No,Panorama,Voting place,162
+Councillor,LAMBERT,No,Porter Street,Voting place,168
+Councillor,LAMBERT,No,Ranch Park,Voting place,199
+Councillor,LAMBERT,No,Riverview,Voting place,150
+Councillor,LAMBERT,No,Smiling Creek,Voting place,218
+Councillor,LAMBERT,No,Victoria Hall,Voting place,126
+Councillor,LAMBERT,No,Walton,Voting place,150
+Councillor,LEE,No,Total,Overall total,3997
+Councillor,LEE,No,Centennial Adv.,Advance,369
+Councillor,LEE,No,Innovation Adv.,Advance,494
+Councillor,LEE,No,Victoria Adv.,Advance,30
+Councillor,LEE,No,Mobile,Mobile,13
+Councillor,LEE,No,Alderson,Voting place,169
+Councillor,LEE,No,Bramblewood,Voting place,208
+Councillor,LEE,No,Cape Horn,Voting place,100
+Councillor,LEE,No,Como Lake,Voting place,149
+Councillor,LEE,No,Eagle Ridge,Voting place,115
+Councillor,LEE,No,Glen,Voting place,217
+Councillor,LEE,No,Harbourview,Voting place,63
+Councillor,LEE,No,Hillcrest,Voting place,202
+Councillor,LEE,No,Innovation,Voting place,293
+Councillor,LEE,No,Lord Baden,Voting place,122
+Councillor,LEE,No,Meadowbrook,Voting place,62
+Councillor,LEE,No,Miller Park,Voting place,94
+Councillor,LEE,No,Montgomery,Voting place,36
+Councillor,LEE,No,Mountain View,Voting place,162
+Councillor,LEE,No,Mundy Road,Voting place,182
+Councillor,LEE,No,Nestor,Voting place,125
+Councillor,LEE,No,Panorama,Voting place,147
+Councillor,LEE,No,Porter Street,Voting place,81
+Councillor,LEE,No,Ranch Park,Voting place,80
+Councillor,LEE,No,Riverview,Voting place,99
+Councillor,LEE,No,Smiling Creek,Voting place,188
+Councillor,LEE,No,Victoria Hall,Voting place,76
+Councillor,LEE,No,Walton,Voting place,121
+Councillor,MANDEWO,Yes,Total,Overall total,8910
+Councillor,MANDEWO,Yes,Centennial Adv.,Advance,1141
+Councillor,MANDEWO,Yes,Innovation Adv.,Advance,1124
+Councillor,MANDEWO,Yes,Victoria Adv.,Advance,91
+Councillor,MANDEWO,Yes,Mobile,Mobile,16
+Councillor,MANDEWO,Yes,Alderson,Voting place,296
+Councillor,MANDEWO,Yes,Bramblewood,Voting place,370
+Councillor,MANDEWO,Yes,Cape Horn,Voting place,281
+Councillor,MANDEWO,Yes,Como Lake,Voting place,283
+Councillor,MANDEWO,Yes,Eagle Ridge,Voting place,337
+Councillor,MANDEWO,Yes,Glen,Voting place,412
+Councillor,MANDEWO,Yes,Harbourview,Voting place,164
+Councillor,MANDEWO,Yes,Hillcrest,Voting place,530
+Councillor,MANDEWO,Yes,Innovation,Voting place,446
+Councillor,MANDEWO,Yes,Lord Baden,Voting place,220
+Councillor,MANDEWO,Yes,Meadowbrook,Voting place,149
+Councillor,MANDEWO,Yes,Miller Park,Voting place,215
+Councillor,MANDEWO,Yes,Montgomery,Voting place,96
+Councillor,MANDEWO,Yes,Mountain View,Voting place,315
+Councillor,MANDEWO,Yes,Mundy Road,Voting place,440
+Councillor,MANDEWO,Yes,Nestor,Voting place,296
+Councillor,MANDEWO,Yes,Panorama,Voting place,227
+Councillor,MANDEWO,Yes,Porter Street,Voting place,190
+Councillor,MANDEWO,Yes,Ranch Park,Voting place,289
+Councillor,MANDEWO,Yes,Riverview,Voting place,213
+Councillor,MANDEWO,Yes,Smiling Creek,Voting place,277
+Councillor,MANDEWO,Yes,Victoria Hall,Voting place,228
+Councillor,MANDEWO,Yes,Walton,Voting place,264
+Councillor,MARSDEN,Yes,Total,Overall total,8702
+Councillor,MARSDEN,Yes,Centennial Adv.,Advance,1172
+Councillor,MARSDEN,Yes,Innovation Adv.,Advance,1006
+Councillor,MARSDEN,Yes,Victoria Adv.,Advance,109
+Councillor,MARSDEN,Yes,Mobile,Mobile,34
+Councillor,MARSDEN,Yes,Alderson,Voting place,251
+Councillor,MARSDEN,Yes,Bramblewood,Voting place,397
+Councillor,MARSDEN,Yes,Cape Horn,Voting place,264
+Councillor,MARSDEN,Yes,Como Lake,Voting place,261
+Councillor,MARSDEN,Yes,Eagle Ridge,Voting place,295
+Councillor,MARSDEN,Yes,Glen,Voting place,369
+Councillor,MARSDEN,Yes,Harbourview,Voting place,169
+Councillor,MARSDEN,Yes,Hillcrest,Voting place,629
+Councillor,MARSDEN,Yes,Innovation,Voting place,346
+Councillor,MARSDEN,Yes,Lord Baden,Voting place,227
+Councillor,MARSDEN,Yes,Meadowbrook,Voting place,137
+Councillor,MARSDEN,Yes,Miller Park,Voting place,163
+Councillor,MARSDEN,Yes,Montgomery,Voting place,96
+Councillor,MARSDEN,Yes,Mountain View,Voting place,345
+Councillor,MARSDEN,Yes,Mundy Road,Voting place,462
+Councillor,MARSDEN,Yes,Nestor,Voting place,265
+Councillor,MARSDEN,Yes,Panorama,Voting place,246
+Councillor,MARSDEN,Yes,Porter Street,Voting place,235
+Councillor,MARSDEN,Yes,Ranch Park,Voting place,244
+Councillor,MARSDEN,Yes,Riverview,Voting place,248
+Councillor,MARSDEN,Yes,Smiling Creek,Voting place,298
+Councillor,MARSDEN,Yes,Victoria Hall,Voting place,193
+Councillor,MARSDEN,Yes,Walton,Voting place,241
+Councillor,MAZZAROLO,Yes,Total,Overall total,8791
+Councillor,MAZZAROLO,Yes,Centennial Adv.,Advance,1209
+Councillor,MAZZAROLO,Yes,Innovation Adv.,Advance,857
+Councillor,MAZZAROLO,Yes,Victoria Adv.,Advance,90
+Councillor,MAZZAROLO,Yes,Mobile,Mobile,15
+Councillor,MAZZAROLO,Yes,Alderson,Voting place,270
+Councillor,MAZZAROLO,Yes,Bramblewood,Voting place,330
+Councillor,MAZZAROLO,Yes,Cape Horn,Voting place,250
+Councillor,MAZZAROLO,Yes,Como Lake,Voting place,320
+Councillor,MAZZAROLO,Yes,Eagle Ridge,Voting place,278
+Councillor,MAZZAROLO,Yes,Glen,Voting place,345
+Councillor,MAZZAROLO,Yes,Harbourview,Voting place,216
+Councillor,MAZZAROLO,Yes,Hillcrest,Voting place,684
+Councillor,MAZZAROLO,Yes,Innovation,Voting place,358
+Councillor,MAZZAROLO,Yes,Lord Baden,Voting place,282
+Councillor,MAZZAROLO,Yes,Meadowbrook,Voting place,140
+Councillor,MAZZAROLO,Yes,Miller Park,Voting place,193
+Councillor,MAZZAROLO,Yes,Montgomery,Voting place,116
+Councillor,MAZZAROLO,Yes,Mountain View,Voting place,385
+Councillor,MAZZAROLO,Yes,Mundy Road,Voting place,529
+Councillor,MAZZAROLO,Yes,Nestor,Voting place,269
+Councillor,MAZZAROLO,Yes,Panorama,Voting place,232
+Councillor,MAZZAROLO,Yes,Porter Street,Voting place,277
+Councillor,MAZZAROLO,Yes,Ranch Park,Voting place,278
+Councillor,MAZZAROLO,Yes,Riverview,Voting place,229
+Councillor,MAZZAROLO,Yes,Smiling Creek,Voting place,257
+Councillor,MAZZAROLO,Yes,Victoria Hall,Voting place,179
+Councillor,MAZZAROLO,Yes,Walton,Voting place,203
+Councillor,McBRYER,No,Total,Overall total,1208
+Councillor,McBRYER,No,Centennial Adv.,Advance,113
+Councillor,McBRYER,No,Innovation Adv.,Advance,157
+Councillor,McBRYER,No,Victoria Adv.,Advance,10
+Councillor,McBRYER,No,Mobile,Mobile,7
+Councillor,McBRYER,No,Alderson,Voting place,46
+Councillor,McBRYER,No,Bramblewood,Voting place,40
+Councillor,McBRYER,No,Cape Horn,Voting place,30
+Councillor,McBRYER,No,Como Lake,Voting place,53
+Councillor,McBRYER,No,Eagle Ridge,Voting place,38
+Councillor,McBRYER,No,Glen,Voting place,71
+Councillor,McBRYER,No,Harbourview,Voting place,22
+Councillor,McBRYER,No,Hillcrest,Voting place,68
+Councillor,McBRYER,No,Innovation,Voting place,90
+Councillor,McBRYER,No,Lord Baden,Voting place,31
+Councillor,McBRYER,No,Meadowbrook,Voting place,26
+Councillor,McBRYER,No,Miller Park,Voting place,20
+Councillor,McBRYER,No,Montgomery,Voting place,19
+Councillor,McBRYER,No,Mountain View,Voting place,43
+Councillor,McBRYER,No,Mundy Road,Voting place,70
+Councillor,McBRYER,No,Nestor,Voting place,47
+Councillor,McBRYER,No,Panorama,Voting place,27
+Councillor,McBRYER,No,Porter Street,Voting place,25
+Councillor,McBRYER,No,Ranch Park,Voting place,40
+Councillor,McBRYER,No,Riverview,Voting place,14
+Councillor,McBRYER,No,Smiling Creek,Voting place,43
+Councillor,McBRYER,No,Victoria Hall,Voting place,33
+Councillor,McBRYER,No,Walton,Voting place,25
+Councillor,MISERA,No,Total,Overall total,933
+Councillor,MISERA,No,Centennial Adv.,Advance,92
+Councillor,MISERA,No,Innovation Adv.,Advance,101
+Councillor,MISERA,No,Victoria Adv.,Advance,8
+Councillor,MISERA,No,Mobile,Mobile,5
+Councillor,MISERA,No,Alderson,Voting place,39
+Councillor,MISERA,No,Bramblewood,Voting place,47
+Councillor,MISERA,No,Cape Horn,Voting place,23
+Councillor,MISERA,No,Como Lake,Voting place,34
+Councillor,MISERA,No,Eagle Ridge,Voting place,34
+Councillor,MISERA,No,Glen,Voting place,61
+Councillor,MISERA,No,Harbourview,Voting place,10
+Councillor,MISERA,No,Hillcrest,Voting place,35
+Councillor,MISERA,No,Innovation,Voting place,69
+Councillor,MISERA,No,Lord Baden,Voting place,34
+Councillor,MISERA,No,Meadowbrook,Voting place,20
+Councillor,MISERA,No,Miller Park,Voting place,19
+Councillor,MISERA,No,Montgomery,Voting place,4
+Councillor,MISERA,No,Mountain View,Voting place,35
+Councillor,MISERA,No,Mundy Road,Voting place,41
+Councillor,MISERA,No,Nestor,Voting place,32
+Councillor,MISERA,No,Panorama,Voting place,31
+Councillor,MISERA,No,Porter Street,Voting place,20
+Councillor,MISERA,No,Ranch Park,Voting place,28
+Councillor,MISERA,No,Riverview,Voting place,25
+Councillor,MISERA,No,Smiling Creek,Voting place,32
+Councillor,MISERA,No,Victoria Hall,Voting place,34
+Councillor,MISERA,No,Walton,Voting place,20
+Councillor,PERRY,No,Total,Overall total,4272
+Councillor,PERRY,No,Centennial Adv.,Advance,557
+Councillor,PERRY,No,Innovation Adv.,Advance,479
+Councillor,PERRY,No,Victoria Adv.,Advance,43
+Councillor,PERRY,No,Mobile,Mobile,13
+Councillor,PERRY,No,Alderson,Voting place,152
+Councillor,PERRY,No,Bramblewood,Voting place,152
+Councillor,PERRY,No,Cape Horn,Voting place,121
+Councillor,PERRY,No,Como Lake,Voting place,148
+Councillor,PERRY,No,Eagle Ridge,Voting place,181
+Councillor,PERRY,No,Glen,Voting place,236
+Councillor,PERRY,No,Harbourview,Voting place,52
+Councillor,PERRY,No,Hillcrest,Voting place,319
+Councillor,PERRY,No,Innovation,Voting place,253
+Councillor,PERRY,No,Lord Baden,Voting place,116
+Councillor,PERRY,No,Meadowbrook,Voting place,80
+Councillor,PERRY,No,Miller Park,Voting place,102
+Councillor,PERRY,No,Montgomery,Voting place,47
+Councillor,PERRY,No,Mountain View,Voting place,182
+Councillor,PERRY,No,Mundy Road,Voting place,211
+Councillor,PERRY,No,Nestor,Voting place,152
+Councillor,PERRY,No,Panorama,Voting place,121
+Councillor,PERRY,No,Porter Street,Voting place,85
+Councillor,PERRY,No,Ranch Park,Voting place,105
+Councillor,PERRY,No,Riverview,Voting place,69
+Councillor,PERRY,No,Smiling Creek,Voting place,113
+Councillor,PERRY,No,Victoria Hall,Voting place,87
+Councillor,PERRY,No,Walton,Voting place,96
+Councillor,ROOSA,No,Total,Overall total,4644
+Councillor,ROOSA,No,Centennial Adv.,Advance,587
+Councillor,ROOSA,No,Innovation Adv.,Advance,520
+Councillor,ROOSA,No,Victoria Adv.,Advance,43
+Councillor,ROOSA,No,Mobile,Mobile,14
+Councillor,ROOSA,No,Alderson,Voting place,178
+Councillor,ROOSA,No,Bramblewood,Voting place,169
+Councillor,ROOSA,No,Cape Horn,Voting place,142
+Councillor,ROOSA,No,Como Lake,Voting place,166
+Councillor,ROOSA,No,Eagle Ridge,Voting place,167
+Councillor,ROOSA,No,Glen,Voting place,270
+Councillor,ROOSA,No,Harbourview,Voting place,81
+Councillor,ROOSA,No,Hillcrest,Voting place,304
+Councillor,ROOSA,No,Innovation,Voting place,236
+Councillor,ROOSA,No,Lord Baden,Voting place,151
+Councillor,ROOSA,No,Meadowbrook,Voting place,84
+Councillor,ROOSA,No,Miller Park,Voting place,117
+Councillor,ROOSA,No,Montgomery,Voting place,60
+Councillor,ROOSA,No,Mountain View,Voting place,184
+Councillor,ROOSA,No,Mundy Road,Voting place,246
+Councillor,ROOSA,No,Nestor,Voting place,129
+Councillor,ROOSA,No,Panorama,Voting place,105
+Councillor,ROOSA,No,Porter Street,Voting place,118
+Councillor,ROOSA,No,Ranch Park,Voting place,127
+Councillor,ROOSA,No,Riverview,Voting place,100
+Councillor,ROOSA,No,Smiling Creek,Voting place,136
+Councillor,ROOSA,No,Victoria Hall,Voting place,108
+Councillor,ROOSA,No,Walton,Voting place,102
+Councillor,ROYER,No,Total,Overall total,5041
+Councillor,ROYER,No,Centennial Adv.,Advance,619
+Councillor,ROYER,No,Innovation Adv.,Advance,599
+Councillor,ROYER,No,Victoria Adv.,Advance,55
+Councillor,ROYER,No,Mobile,Mobile,12
+Councillor,ROYER,No,Alderson,Voting place,181
+Councillor,ROYER,No,Bramblewood,Voting place,235
+Councillor,ROYER,No,Cape Horn,Voting place,141
+Councillor,ROYER,No,Como Lake,Voting place,176
+Councillor,ROYER,No,Eagle Ridge,Voting place,191
+Councillor,ROYER,No,Glen,Voting place,274
+Councillor,ROYER,No,Harbourview,Voting place,92
+Councillor,ROYER,No,Hillcrest,Voting place,286
+Councillor,ROYER,No,Innovation,Voting place,295
+Councillor,ROYER,No,Lord Baden,Voting place,133
+Councillor,ROYER,No,Meadowbrook,Voting place,73
+Councillor,ROYER,No,Miller Park,Voting place,122
+Councillor,ROYER,No,Montgomery,Voting place,49
+Councillor,ROYER,No,Mountain View,Voting place,165
+Councillor,ROYER,No,Mundy Road,Voting place,235
+Councillor,ROYER,No,Nestor,Voting place,136
+Councillor,ROYER,No,Panorama,Voting place,144
+Councillor,ROYER,No,Porter Street,Voting place,103
+Councillor,ROYER,No,Ranch Park,Voting place,153
+Councillor,ROYER,No,Riverview,Voting place,120
+Councillor,ROYER,No,Smiling Creek,Voting place,174
+Councillor,ROYER,No,Victoria Hall,Voting place,125
+Councillor,ROYER,No,Walton,Voting place,153
+Councillor,SU,No,Total,Overall total,7238
+Councillor,SU,No,Centennial Adv.,Advance,712
+Councillor,SU,No,Innovation Adv.,Advance,888
+Councillor,SU,No,Victoria Adv.,Advance,48
+Councillor,SU,No,Mobile,Mobile,5
+Councillor,SU,No,Alderson,Voting place,212
+Councillor,SU,No,Bramblewood,Voting place,394
+Councillor,SU,No,Cape Horn,Voting place,221
+Councillor,SU,No,Como Lake,Voting place,189
+Councillor,SU,No,Eagle Ridge,Voting place,251
+Councillor,SU,No,Glen,Voting place,371
+Councillor,SU,No,Harbourview,Voting place,117
+Councillor,SU,No,Hillcrest,Voting place,410
+Councillor,SU,No,Innovation,Voting place,478
+Councillor,SU,No,Lord Baden,Voting place,161
+Councillor,SU,No,Meadowbrook,Voting place,104
+Councillor,SU,No,Miller Park,Voting place,149
+Councillor,SU,No,Montgomery,Voting place,69
+Councillor,SU,No,Mountain View,Voting place,249
+Councillor,SU,No,Mundy Road,Voting place,337
+Councillor,SU,No,Nestor,Voting place,239
+Councillor,SU,No,Panorama,Voting place,366
+Councillor,SU,No,Porter Street,Voting place,164
+Councillor,SU,No,Ranch Park,Voting place,213
+Councillor,SU,No,Riverview,Voting place,144
+Councillor,SU,No,Smiling Creek,Voting place,350
+Councillor,SU,No,Victoria Hall,Voting place,150
+Councillor,SU,No,Walton,Voting place,247
+Councillor,TOOTIAN,No,Total,Overall total,2797
+Councillor,TOOTIAN,No,Centennial Adv.,Advance,265
+Councillor,TOOTIAN,No,Innovation Adv.,Advance,363
+Councillor,TOOTIAN,No,Victoria Adv.,Advance,19
+Councillor,TOOTIAN,No,Mobile,Mobile,2
+Councillor,TOOTIAN,No,Alderson,Voting place,74
+Councillor,TOOTIAN,No,Bramblewood,Voting place,148
+Councillor,TOOTIAN,No,Cape Horn,Voting place,71
+Councillor,TOOTIAN,No,Como Lake,Voting place,101
+Councillor,TOOTIAN,No,Eagle Ridge,Voting place,160
+Councillor,TOOTIAN,No,Glen,Voting place,171
+Councillor,TOOTIAN,No,Harbourview,Voting place,38
+Councillor,TOOTIAN,No,Hillcrest,Voting place,117
+Councillor,TOOTIAN,No,Innovation,Voting place,196
+Councillor,TOOTIAN,No,Lord Baden,Voting place,49
+Councillor,TOOTIAN,No,Meadowbrook,Voting place,39
+Councillor,TOOTIAN,No,Miller Park,Voting place,72
+Councillor,TOOTIAN,No,Montgomery,Voting place,23
+Councillor,TOOTIAN,No,Mountain View,Voting place,94
+Councillor,TOOTIAN,No,Mundy Road,Voting place,116
+Councillor,TOOTIAN,No,Nestor,Voting place,99
+Councillor,TOOTIAN,No,Panorama,Voting place,130
+Councillor,TOOTIAN,No,Porter Street,Voting place,51
+Councillor,TOOTIAN,No,Ranch Park,Voting place,73
+Councillor,TOOTIAN,No,Riverview,Voting place,58
+Councillor,TOOTIAN,No,Smiling Creek,Voting place,78
+Councillor,TOOTIAN,No,Victoria Hall,Voting place,69
+Councillor,TOOTIAN,No,Walton,Voting place,121
+Councillor,TOWNER,Yes,Total,Overall total,9945
+Councillor,TOWNER,Yes,Centennial Adv.,Advance,1352
+Councillor,TOWNER,Yes,Innovation Adv.,Advance,1205
+Councillor,TOWNER,Yes,Victoria Adv.,Advance,123
+Councillor,TOWNER,Yes,Mobile,Mobile,21
+Councillor,TOWNER,Yes,Alderson,Voting place,290
+Councillor,TOWNER,Yes,Bramblewood,Voting place,417
+Councillor,TOWNER,Yes,Cape Horn,Voting place,286
+Councillor,TOWNER,Yes,Como Lake,Voting place,312
+Councillor,TOWNER,Yes,Eagle Ridge,Voting place,338
+Councillor,TOWNER,Yes,Glen,Voting place,428
+Councillor,TOWNER,Yes,Harbourview,Voting place,202
+Councillor,TOWNER,Yes,Hillcrest,Voting place,713
+Councillor,TOWNER,Yes,Innovation,Voting place,445
+Councillor,TOWNER,Yes,Lord Baden,Voting place,222
+Councillor,TOWNER,Yes,Meadowbrook,Voting place,149
+Councillor,TOWNER,Yes,Miller Park,Voting place,198
+Councillor,TOWNER,Yes,Montgomery,Voting place,123
+Councillor,TOWNER,Yes,Mountain View,Voting place,345
+Councillor,TOWNER,Yes,Mundy Road,Voting place,565
+Councillor,TOWNER,Yes,Nestor,Voting place,296
+Councillor,TOWNER,Yes,Panorama,Voting place,287
+Councillor,TOWNER,Yes,Porter Street,Voting place,258
+Councillor,TOWNER,Yes,Ranch Park,Voting place,304
+Councillor,TOWNER,Yes,Riverview,Voting place,250
+Councillor,TOWNER,Yes,Smiling Creek,Voting place,335
+Councillor,TOWNER,Yes,Victoria Hall,Voting place,214
+Councillor,TOWNER,Yes,Walton,Voting place,267
+Councillor,TREPANIER,No,Total,Overall total,3951
+Councillor,TREPANIER,No,Centennial Adv.,Advance,555
+Councillor,TREPANIER,No,Innovation Adv.,Advance,417
+Councillor,TREPANIER,No,Victoria Adv.,Advance,35
+Councillor,TREPANIER,No,Mobile,Mobile,23
+Councillor,TREPANIER,No,Alderson,Voting place,97
+Councillor,TREPANIER,No,Bramblewood,Voting place,136
+Councillor,TREPANIER,No,Cape Horn,Voting place,127
+Councillor,TREPANIER,No,Como Lake,Voting place,141
+Councillor,TREPANIER,No,Eagle Ridge,Voting place,141
+Councillor,TREPANIER,No,Glen,Voting place,179
+Councillor,TREPANIER,No,Harbourview,Voting place,65
+Councillor,TREPANIER,No,Hillcrest,Voting place,261
+Councillor,TREPANIER,No,Innovation,Voting place,172
+Councillor,TREPANIER,No,Lord Baden,Voting place,91
+Councillor,TREPANIER,No,Meadowbrook,Voting place,70
+Councillor,TREPANIER,No,Miller Park,Voting place,66
+Councillor,TREPANIER,No,Montgomery,Voting place,59
+Councillor,TREPANIER,No,Mountain View,Voting place,153
+Councillor,TREPANIER,No,Mundy Road,Voting place,209
+Councillor,TREPANIER,No,Nestor,Voting place,133
+Councillor,TREPANIER,No,Panorama,Voting place,90
+Councillor,TREPANIER,No,Porter Street,Voting place,84
+Councillor,TREPANIER,No,Ranch Park,Voting place,130
+Councillor,TREPANIER,No,Riverview,Voting place,191
+Councillor,TREPANIER,No,Smiling Creek,Voting place,123
+Councillor,TREPANIER,No,Victoria Hall,Voting place,103
+Councillor,TREPANIER,No,Walton,Voting place,100
+School Trustee,BLATHERWICK,Yes,Total,Overall total,13211
+School Trustee,BLATHERWICK,Yes,Centennial Adv.,Advance,1704
+School Trustee,BLATHERWICK,Yes,Innovation Adv.,Advance,1568
+School Trustee,BLATHERWICK,Yes,Victoria Adv.,Advance,140
+School Trustee,BLATHERWICK,Yes,Mobile,Mobile,37
+School Trustee,BLATHERWICK,Yes,Alderson,Voting place,453
+School Trustee,BLATHERWICK,Yes,Bramblewood,Voting place,552
+School Trustee,BLATHERWICK,Yes,Cape Horn,Voting place,402
+School Trustee,BLATHERWICK,Yes,Como Lake,Voting place,445
+School Trustee,BLATHERWICK,Yes,Eagle Ridge,Voting place,465
+School Trustee,BLATHERWICK,Yes,Glen,Voting place,585
+School Trustee,BLATHERWICK,Yes,Harbourview,Voting place,235
+School Trustee,BLATHERWICK,Yes,Hillcrest,Voting place,898
+School Trustee,BLATHERWICK,Yes,Innovation,Voting place,642
+School Trustee,BLATHERWICK,Yes,Lord Baden,Voting place,356
+School Trustee,BLATHERWICK,Yes,Meadowbrook,Voting place,195
+School Trustee,BLATHERWICK,Yes,Miller Park,Voting place,289
+School Trustee,BLATHERWICK,Yes,Montgomery,Voting place,159
+School Trustee,BLATHERWICK,Yes,Mountain View,Voting place,487
+School Trustee,BLATHERWICK,Yes,Mundy Road,Voting place,731
+School Trustee,BLATHERWICK,Yes,Nestor,Voting place,389
+School Trustee,BLATHERWICK,Yes,Panorama,Voting place,363
+School Trustee,BLATHERWICK,Yes,Porter Street,Voting place,315
+School Trustee,BLATHERWICK,Yes,Ranch Park,Voting place,404
+School Trustee,BLATHERWICK,Yes,Riverview,Voting place,291
+School Trustee,BLATHERWICK,Yes,Smiling Creek,Voting place,431
+School Trustee,BLATHERWICK,Yes,Victoria Hall,Voting place,311
+School Trustee,BLATHERWICK,Yes,Walton,Voting place,364
+School Trustee,CAHOON,Yes,Total,Overall total,12328
+School Trustee,CAHOON,Yes,Centennial Adv.,Advance,1623
+School Trustee,CAHOON,Yes,Innovation Adv.,Advance,1430
+School Trustee,CAHOON,Yes,Victoria Adv.,Advance,125
+School Trustee,CAHOON,Yes,Mobile,Mobile,34
+School Trustee,CAHOON,Yes,Alderson,Voting place,381
+School Trustee,CAHOON,Yes,Bramblewood,Voting place,534
+School Trustee,CAHOON,Yes,Cape Horn,Voting place,371
+School Trustee,CAHOON,Yes,Como Lake,Voting place,416
+School Trustee,CAHOON,Yes,Eagle Ridge,Voting place,423
+School Trustee,CAHOON,Yes,Glen,Voting place,541
+School Trustee,CAHOON,Yes,Harbourview,Voting place,246
+School Trustee,CAHOON,Yes,Hillcrest,Voting place,917
+School Trustee,CAHOON,Yes,Innovation,Voting place,565
+School Trustee,CAHOON,Yes,Lord Baden,Voting place,308
+School Trustee,CAHOON,Yes,Meadowbrook,Voting place,190
+School Trustee,CAHOON,Yes,Miller Park,Voting place,257
+School Trustee,CAHOON,Yes,Montgomery,Voting place,139
+School Trustee,CAHOON,Yes,Mountain View,Voting place,449
+School Trustee,CAHOON,Yes,Mundy Road,Voting place,689
+School Trustee,CAHOON,Yes,Nestor,Voting place,363
+School Trustee,CAHOON,Yes,Panorama,Voting place,346
+School Trustee,CAHOON,Yes,Porter Street,Voting place,330
+School Trustee,CAHOON,Yes,Ranch Park,Voting place,351
+School Trustee,CAHOON,Yes,Riverview,Voting place,294
+School Trustee,CAHOON,Yes,Smiling Creek,Voting place,384
+School Trustee,CAHOON,Yes,Victoria Hall,Voting place,281
+School Trustee,CAHOON,Yes,Walton,Voting place,341
+School Trustee,DENISON,Yes,Total,Overall total,9762
+School Trustee,DENISON,Yes,Centennial Adv.,Advance,1331
+School Trustee,DENISON,Yes,Innovation Adv.,Advance,1142
+School Trustee,DENISON,Yes,Victoria Adv.,Advance,112
+School Trustee,DENISON,Yes,Mobile,Mobile,29
+School Trustee,DENISON,Yes,Alderson,Voting place,301
+School Trustee,DENISON,Yes,Bramblewood,Voting place,416
+School Trustee,DENISON,Yes,Cape Horn,Voting place,273
+School Trustee,DENISON,Yes,Como Lake,Voting place,353
+School Trustee,DENISON,Yes,Eagle Ridge,Voting place,316
+School Trustee,DENISON,Yes,Glen,Voting place,404
+School Trustee,DENISON,Yes,Harbourview,Voting place,184
+School Trustee,DENISON,Yes,Hillcrest,Voting place,716
+School Trustee,DENISON,Yes,Innovation,Voting place,414
+School Trustee,DENISON,Yes,Lord Baden,Voting place,261
+School Trustee,DENISON,Yes,Meadowbrook,Voting place,163
+School Trustee,DENISON,Yes,Miller Park,Voting place,215
+School Trustee,DENISON,Yes,Montgomery,Voting place,116
+School Trustee,DENISON,Yes,Mountain View,Voting place,355
+School Trustee,DENISON,Yes,Mundy Road,Voting place,517
+School Trustee,DENISON,Yes,Nestor,Voting place,291
+School Trustee,DENISON,Yes,Panorama,Voting place,277
+School Trustee,DENISON,Yes,Porter Street,Voting place,261
+School Trustee,DENISON,Yes,Ranch Park,Voting place,285
+School Trustee,DENISON,Yes,Riverview,Voting place,252
+School Trustee,DENISON,Yes,Smiling Creek,Voting place,294
+School Trustee,DENISON,Yes,Victoria Hall,Voting place,226
+School Trustee,DENISON,Yes,Walton,Voting place,258
+School Trustee,WAY,No,Total,Overall total,4498
+School Trustee,WAY,No,Centennial Adv.,Advance,446
+School Trustee,WAY,No,Innovation Adv.,Advance,518
+School Trustee,WAY,No,Victoria Adv.,Advance,35
+School Trustee,WAY,No,Mobile,Mobile,11
+School Trustee,WAY,No,Alderson,Voting place,163
+School Trustee,WAY,No,Bramblewood,Voting place,197
+School Trustee,WAY,No,Cape Horn,Voting place,140
+School Trustee,WAY,No,Como Lake,Voting place,153
+School Trustee,WAY,No,Eagle Ridge,Voting place,158
+School Trustee,WAY,No,Glen,Voting place,241
+School Trustee,WAY,No,Harbourview,Voting place,75
+School Trustee,WAY,No,Hillcrest,Voting place,248
+School Trustee,WAY,No,Innovation,Voting place,309
+School Trustee,WAY,No,Lord Baden,Voting place,115
+School Trustee,WAY,No,Meadowbrook,Voting place,72
+School Trustee,WAY,No,Miller Park,Voting place,82
+School Trustee,WAY,No,Montgomery,Voting place,38
+School Trustee,WAY,No,Mountain View,Voting place,185
+School Trustee,WAY,No,Mundy Road,Voting place,231
+School Trustee,WAY,No,Nestor,Voting place,168
+School Trustee,WAY,No,Panorama,Voting place,145
+School Trustee,WAY,No,Porter Street,Voting place,103
+School Trustee,WAY,No,Ranch Park,Voting place,130
+School Trustee,WAY,No,Riverview,Voting place,131
+School Trustee,WAY,No,Smiling Creek,Voting place,191
+School Trustee,WAY,No,Victoria Hall,Voting place,95
+School Trustee,WAY,No,Walton,Voting place,118
+School Trustee,WESTLEY,No,Total,Overall total,5360
+School Trustee,WESTLEY,No,Centennial Adv.,Advance,541
+School Trustee,WESTLEY,No,Innovation Adv.,Advance,590
+School Trustee,WESTLEY,No,Victoria Adv.,Advance,45
+School Trustee,WESTLEY,No,Mobile,Mobile,19
+School Trustee,WESTLEY,No,Alderson,Voting place,209
+School Trustee,WESTLEY,No,Bramblewood,Voting place,218
+School Trustee,WESTLEY,No,Cape Horn,Voting place,163
+School Trustee,WESTLEY,No,Como Lake,Voting place,189
+School Trustee,WESTLEY,No,Eagle Ridge,Voting place,191
+School Trustee,WESTLEY,No,Glen,Voting place,289
+School Trustee,WESTLEY,No,Harbourview,Voting place,100
+School Trustee,WESTLEY,No,Hillcrest,Voting place,288
+School Trustee,WESTLEY,No,Innovation,Voting place,330
+School Trustee,WESTLEY,No,Lord Baden,Voting place,156
+School Trustee,WESTLEY,No,Meadowbrook,Voting place,85
+School Trustee,WESTLEY,No,Miller Park,Voting place,114
+School Trustee,WESTLEY,No,Montgomery,Voting place,57
+School Trustee,WESTLEY,No,Mountain View,Voting place,212
+School Trustee,WESTLEY,No,Mundy Road,Voting place,285
+School Trustee,WESTLEY,No,Nestor,Voting place,206
+School Trustee,WESTLEY,No,Panorama,Voting place,170
+School Trustee,WESTLEY,No,Porter Street,Voting place,126
+School Trustee,WESTLEY,No,Ranch Park,Voting place,143
+School Trustee,WESTLEY,No,Riverview,Voting place,161
+School Trustee,WESTLEY,No,Smiling Creek,Voting place,224
+School Trustee,WESTLEY,No,Victoria Hall,Voting place,120
+School Trustee,WESTLEY,No,Walton,Voting place,129
+School Trustee,WHEATLEY,No,Total,Overall total,6014
+School Trustee,WHEATLEY,No,Centennial Adv.,Advance,626
+School Trustee,WHEATLEY,No,Innovation Adv.,Advance,648
+School Trustee,WHEATLEY,No,Victoria Adv.,Advance,55
+School Trustee,WHEATLEY,No,Mobile,Mobile,22
+School Trustee,WHEATLEY,No,Alderson,Voting place,237
+School Trustee,WHEATLEY,No,Bramblewood,Voting place,273
+School Trustee,WHEATLEY,No,Cape Horn,Voting place,179
+School Trustee,WHEATLEY,No,Como Lake,Voting place,188
+School Trustee,WHEATLEY,No,Eagle Ridge,Voting place,234
+School Trustee,WHEATLEY,No,Glen,Voting place,314
+School Trustee,WHEATLEY,No,Harbourview,Voting place,120
+School Trustee,WHEATLEY,No,Hillcrest,Voting place,358
+School Trustee,WHEATLEY,No,Innovation,Voting place,378
+School Trustee,WHEATLEY,No,Lord Baden,Voting place,159
+School Trustee,WHEATLEY,No,Meadowbrook,Voting place,102
+School Trustee,WHEATLEY,No,Miller Park,Voting place,109
+School Trustee,WHEATLEY,No,Montgomery,Voting place,64
+School Trustee,WHEATLEY,No,Mountain View,Voting place,215
+School Trustee,WHEATLEY,No,Mundy Road,Voting place,294
+School Trustee,WHEATLEY,No,Nestor,Voting place,219
+School Trustee,WHEATLEY,No,Panorama,Voting place,217
+School Trustee,WHEATLEY,No,Porter Street,Voting place,143
+School Trustee,WHEATLEY,No,Ranch Park,Voting place,165
+School Trustee,WHEATLEY,No,Riverview,Voting place,159
+School Trustee,WHEATLEY,No,Smiling Creek,Voting place,225
+School Trustee,WHEATLEY,No,Victoria Hall,Voting place,157
+School Trustee,WHEATLEY,No,Walton,Voting place,154
+School Trustee,WOODS,Yes,Total,Overall total,11521
+School Trustee,WOODS,Yes,Centennial Adv.,Advance,1494
+School Trustee,WOODS,Yes,Innovation Adv.,Advance,1311
+School Trustee,WOODS,Yes,Victoria Adv.,Advance,112
+School Trustee,WOODS,Yes,Mobile,Mobile,33
+School Trustee,WOODS,Yes,Alderson,Voting place,375
+School Trustee,WOODS,Yes,Bramblewood,Voting place,503
+School Trustee,WOODS,Yes,Cape Horn,Voting place,326
+School Trustee,WOODS,Yes,Como Lake,Voting place,394
+School Trustee,WOODS,Yes,Eagle Ridge,Voting place,403
+School Trustee,WOODS,Yes,Glen,Voting place,522
+School Trustee,WOODS,Yes,Harbourview,Voting place,215
+School Trustee,WOODS,Yes,Hillcrest,Voting place,782
+School Trustee,WOODS,Yes,Innovation,Voting place,509
+School Trustee,WOODS,Yes,Lord Baden,Voting place,299
+School Trustee,WOODS,Yes,Meadowbrook,Voting place,186
+School Trustee,WOODS,Yes,Miller Park,Voting place,263
+School Trustee,WOODS,Yes,Montgomery,Voting place,138
+School Trustee,WOODS,Yes,Mountain View,Voting place,430
+School Trustee,WOODS,Yes,Mundy Road,Voting place,624
+School Trustee,WOODS,Yes,Nestor,Voting place,358
+School Trustee,WOODS,Yes,Panorama,Voting place,346
+School Trustee,WOODS,Yes,Porter Street,Voting place,288
+School Trustee,WOODS,Yes,Ranch Park,Voting place,319
+School Trustee,WOODS,Yes,Riverview,Voting place,282
+School Trustee,WOODS,Yes,Smiling Creek,Voting place,413
+School Trustee,WOODS,Yes,Victoria Hall,Voting place,264
+School Trustee,WOODS,Yes,Walton,Voting place,332

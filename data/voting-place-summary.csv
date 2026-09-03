@@ -1,0 +1,29 @@
+order,voting_place,category,ballots_cast,eligible_voters,turnout,mayor_total_votes,councillor_total_votes,school_trustee_total_votes,longitude,latitude
+0,Total,Overall total,20668,101649,0.2033,20290,127397,62694,,
+1,Centennial Adv.,Advance,2474,,,2442,16016,7765,-122.847108,49.254714
+2,Innovation Adv.,Advance,2389,,,2347,14688,7207,-122.790573,49.285678
+3,Victoria Adv.,Advance,199,,,191,1312,624,-122.750087,49.286135
+4,Mobile,Mobile,94,,,93,347,185,,
+5,Alderson,Voting place,673,,,658,4136,2119,-122.874778,49.239064
+6,Bramblewood,Voting place,929,,,909,5488,2693,-122.812889,49.298166
+7,Cape Horn,Voting place,589,,,573,3724,1854,-122.836228,49.234664
+8,Como Lake,Voting place,705,,,682,4288,2138,-122.85954,49.254714
+9,Eagle Ridge,Voting place,678,,,672,4430,2190,-122.816854,49.285734
+10,Glen,Voting place,984,,,967,6030,2896,-122.787534,49.282458
+11,Harbourview,Voting place,395,,,383,2388,1175,-122.861269,49.268869
+12,Hillcrest,Voting place,1335,,,1315,8349,4207,-122.834145,49.262288
+13,Innovation,Voting place,1087,,,1068,6438,3147,-122.790573,49.285678
+14,Lord Baden,Voting place,550,,,538,3419,1654,-122.873895,49.247301
+15,Meadowbrook,Voting place,309,,,304,1998,993,-122.801321,49.266863
+16,Miller Park,Voting place,456,,,446,2749,1329,-122.878224,49.266321
+17,Montgomery,Voting place,235,,,234,1455,711,-122.841214,49.244168
+18,Mountain View,Voting place,775,,,761,4745,2333,-122.879049,49.259832
+19,Mundy Road,Voting place,1091,,,1074,6733,3371,-122.833343,49.248784
+20,Nestor,Voting place,637,,,631,4064,1994,-122.779231,49.29027
+21,Panorama,Voting place,670,,,648,3762,1864,-122.799397,49.300017
+22,Porter Street,Voting place,517,,,508,3127,1566,-122.863948,49.261698
+23,Ranch Park,Voting place,580,,,569,3719,1797,-122.813079,49.265032
+24,Riverview,Voting place,509,,,503,3243,1570,-122.805953,49.257036
+25,Smiling Creek,Voting place,742,,,727,4340,2162,-122.75024,49.298092
+26,Victoria Hall,Voting place,483,,,472,2924,1454,-122.750087,49.286135
+27,Walton,Voting place,583,,,575,3485,1696,-122.797516,49.289476
