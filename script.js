@@ -233,7 +233,7 @@ function renderResults(data, animate) {
 
   renderRingChart({
     selector: "#council-elected-chart",
-    data: councilData.filter(d => d.elected),
+    data: councilData.filter(d => d.elected).sort((a, b) => d3.descending(a.votes, b.votes)),
     width: 620,
     height: 570,
     centerX: 365,
@@ -249,7 +249,7 @@ function renderResults(data, animate) {
 
   renderRingChart({
     selector: "#council-other-chart",
-    data: councilData.filter(d => !d.elected),
+    data: councilData.filter(d => !d.elected).sort((a, b) => d3.descending(a.votes, b.votes)),
     width: 620,
     height: 570,
     centerX: 365,
