@@ -1100,23 +1100,29 @@ a:focus-visible {
   }
 
   .results-sticky {
-    position: relative;
-    box-shadow: none;
-    backdrop-filter: none;
-  }
+  position: sticky;
+  top: 0;
+  box-shadow: none;
+  backdrop-filter: none;
+}
 
-  .results-sticky .section-heading--with-control {
-    min-height: 0;
-    padding: 38px 0 24px;
-  }
+.results-sticky .section-heading--with-control {
+  min-height: 0;
+  padding: 10px 0 12px;
+}
 
-  .results-content {
-    padding-top: 16px;
-  }
+.results-sticky .section-heading--with-control > div:first-child {
+  display: none;
+}
 
-  .place-control {
-    margin-top: 24px;
-  }
+.results-content {
+  padding-top: 16px;
+}
+
+.place-control {
+  width: 100%;
+  margin-top: 0;
+}
 
   .selected-summary {
     grid-template-columns: 1fr 1fr;
