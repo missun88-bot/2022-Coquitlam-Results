@@ -1102,6 +1102,7 @@ a:focus-visible {
   .results-sticky {
   position: sticky;
   top: 0;
+  background: #f5df95;
   box-shadow: none;
   backdrop-filter: none;
 }
@@ -1124,6 +1125,14 @@ a:focus-visible {
   margin-top: 0;
 }
 
+  .place-control label {
+  color: var(--navy);
+  font-size: 0.82rem;
+}
+
+.place-control select {
+  font-size: 1.1rem;
+}
   .selected-summary {
     grid-template-columns: 1fr 1fr;
   }
